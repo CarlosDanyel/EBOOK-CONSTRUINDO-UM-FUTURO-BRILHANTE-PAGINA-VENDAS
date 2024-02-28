@@ -2,7 +2,7 @@
   ✍<br>Construindo um futuro brilhante
 </h1>
 
-![Resultado final do projeto](./src/assets/PaginaDeVendas.png)
+![Resultado final do projeto](./src/assets/pagina.png)
 
 <h4 align="center"><a href="https://pagina-de-vendas-ebook-carlosdanyel.vercel.app/">Clique para visitar o projeto</a></h4>
 
@@ -10,12 +10,12 @@
 
 O site é composto por seis seções:
 
-- **Home:** Nele temos uma breve apresentação;
-- **Vantagens** Exibe as vantagens do nosso produto;
-- **Provas reais** Nele apresentamos os fedbacks dos nossos clientes;
-- **sobre:** Uma breve descrição do produto;
-- **Perguntas:** Perguntas diarias dos nosso clientes;
-- **Compra:** A nossa oferta;
+-   **Home:** Nele temos uma breve apresentação;
+-   **Vantagens** Exibe as vantagens do nosso produto;
+-   **Provas reais** Nele apresentamos os fedbacks dos nossos clientes;
+-   **sobre:** Uma breve descrição do produto;
+-   **Perguntas:** Perguntas diarias dos nosso clientes;
+-   **Compra:** A nossa oferta;
 
 ---
 
@@ -23,10 +23,11 @@ O site é composto por seis seções:
 
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
-- React;
-- Sass/Scss;
-- React-scroll;  
-- Typed.js;
+-   React;
+-   Sass/Scss;
+-   React-scroll;
+-   Typed.js;
+
 ---
 
 <h2>Desenvolvedor</h2>
